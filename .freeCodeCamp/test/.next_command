@@ -199,3 +199,5 @@ grep --color -n 'cat[a-z]*' kitty_ipsum_2.txt
 touch translate.sh
 chmod +x translate.sh
 ./translate.sh kitty_ipsum_1.txt
+__vsc_prompt_cmd_original
+./translate.sh < kitty_ipsum_1.txt
