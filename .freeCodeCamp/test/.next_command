@@ -60,3 +60,9 @@ chmod +x script.sh
 ./script.sh
 ./script.sh
 echo Komal
+echo Komal
+echo Komal stderr.txt
+echo Komal > stderr.txt
+echo Komal 2> stderr.txt
+echo Komal 2> stderr.txt
+echo Komal
