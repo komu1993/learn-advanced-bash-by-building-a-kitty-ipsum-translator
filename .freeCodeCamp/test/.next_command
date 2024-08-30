@@ -55,3 +55,4 @@ cat
 cat name.txt
 cat < name.txt
 echo komal
+touch script.sh
