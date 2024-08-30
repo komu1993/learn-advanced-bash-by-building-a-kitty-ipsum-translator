@@ -67,3 +67,10 @@ echo Komal 2> stderr.txt
 echo Komal 2> stderr.txt
 echo Komal
 echo Komal
+echo Komal
+echo Komal
+echo Komal
+echo Komal
+echo Komal
+echo Komal
+./script.sh < name.txt
