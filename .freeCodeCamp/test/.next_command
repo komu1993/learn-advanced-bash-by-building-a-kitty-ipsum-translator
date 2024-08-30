@@ -52,3 +52,4 @@ echo $NAME
 echo Komal
 echo $NAME
 cat
+cat name.txt
