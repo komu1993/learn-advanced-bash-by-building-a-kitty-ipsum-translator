@@ -158,3 +158,6 @@ grep --color 'cat[a-z]*' kitty_ipsum_1.txt
 grep --color -n 'cat[a-z]*' kitty_ipsum_1.txt
 grep --color -o 'cat[a-z]*' kitty_ipsum_1.txt
 grep -o 'cat[a-z]*' kitty_ipsum_1.txt
+grep -o 'cat[a-z]*' kitty_ipsum_1.txt
+grep -o 'cat[a-z]*' kitty_ipsum_1.txt
+grep -o 'cat[a-z]*' kitty_ipsum_1.txt
