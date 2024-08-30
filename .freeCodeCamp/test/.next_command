@@ -51,3 +51,4 @@ echo $NAME
 echo $NAME
 echo Komal
 echo $NAME
+cat
